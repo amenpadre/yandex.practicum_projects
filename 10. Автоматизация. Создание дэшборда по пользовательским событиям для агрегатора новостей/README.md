@@ -7,6 +7,6 @@
 
 ## Используемые библиотеки и инструменты
 * pandas
-* sql
+* postgresql
 * sqlalchemy
 * tableau public
